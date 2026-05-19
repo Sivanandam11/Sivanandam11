@@ -105,13 +105,13 @@ Configured and managed containerized applications on Linux servers using Docker 
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivanandam11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanandam11&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivanandam11&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -137,7 +137,7 @@ SKP Engineering College, Thiruvannamalai
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d4ff&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=sivanandam11&color=00d4ff&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
