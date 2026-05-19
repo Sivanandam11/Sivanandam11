@@ -121,7 +121,10 @@ Configured and managed containerized applications on Linux servers using Docker 
 🎓 B.Tech Information Technology (2026 Graduate)  
 SKP Engineering College, Thiruvannamalai  
 
-☁️ Cloud Computing & DevOps Enthusiast  
+💼 6-Month AWS & DevOps Cloud Computing Intern  
+HTGE Pvt Ltd, Pondicherry  
+
+☁️ Passionate about AWS Cloud Infrastructure, DevOps & Automation  
 
 🐧 Linux Administrator & Networking Learner  
 
